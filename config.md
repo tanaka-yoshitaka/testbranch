@@ -1,1 +1,1 @@
-config=main
+config=main-B
